@@ -1,0 +1,25 @@
+.bg-Appbar{
+    background-color: #fff;
+    border-bottom: solid 0.2px #D6DBDF;
+    
+}
+.bg-Appbar .logo{
+    height: 40px;
+    width: auto;
+    
+}
+.bg-Appbar .on_right{
+    margin-left: auto;
+    
+    
+}
+.bg-Appbar .btn-login{
+    margin-right: 10px;
+    display: inline-block;
+    white-space: nowrap;
+}
+.bg-Appbar .btn-signin{
+    display: inline-block;
+    white-space: nowrap;
+}
+

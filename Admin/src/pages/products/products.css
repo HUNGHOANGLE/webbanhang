@@ -1,0 +1,9 @@
+.mdb-dataTable-head{
+    background-color: var(--main-color);
+    
+}
+.mdb-datatable-filter{
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: 0;
+}

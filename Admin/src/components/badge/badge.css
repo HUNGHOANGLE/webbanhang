@@ -1,0 +1,26 @@
+.badge{
+    padding:6px 11px;
+    color: var(--txt-white);
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+}
+.badge-Regular{
+    color: #1ABC9C;
+    background-color: #E8F8F5;
+}
+.badge-Irregular{
+    color: #2C3E50;
+    background-color: #EAECEE;
+}
+.badge-TopSeller{
+    color: #3498DB;
+    background-color: #EAF2F8;
+}
+.badge-TopPick{
+    color: #8E44AD;
+    background-color: #F4ECF7;
+}
+.badge-Hot{
+    color: #E74C3C;
+    background-color: #FDEDEC;
+}

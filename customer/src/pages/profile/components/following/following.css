@@ -1,0 +1,20 @@
+.item__{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 250px;
+}
+.Item_size{
+    background-color: antiquewhite;
+    font-size: 13px;
+}
+.Item_title{
+    font-size: 18px;
+    font-weight: 500;
+}
+.delete_item{
+    
+}
+.delete_item:hover{
+    color: #E74C3C;
+}

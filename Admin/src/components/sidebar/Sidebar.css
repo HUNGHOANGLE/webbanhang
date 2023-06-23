@@ -1,0 +1,83 @@
+.sidebar{
+    min-width : var(--sidebar-with);
+    height : 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    
+}
+/* khi lỗi Boostrap css thêm cái này vô trong thẻ sidebar là hết kkk */
+.sidebar :link{
+    text-decoration: none;
+}
+.sidebar__logo{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.sidebar__logo > img{
+    height: 45px;
+}
+.sidebar__item{
+    padding: 0 20px;
+}
+.sidebar__item-inner{
+    padding: 15px 25px;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    transition: color 0.3s ease 0s;
+    text-decoration: none;
+}
+.sidebar__item-inner > i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+.sidebar__item-inner > span {
+    text-transform: capitalize;
+    text-decoration: none;
+}
+/* .sidebar__item-inner :hover {
+    color: var(--main-color);
+} */
+.sidebar__item-inner.active{
+    text-decoration: none;
+    border-radius: var(--border-radius);
+    background-image: linear-gradient(
+        to right,
+        var(--main-color),
+        var(--second-color)
+    );
+    color: var(--txt-white);
+}
+.sidebar.hide {
+    display: none;
+}
+
+.sidebar .logout_btn {
+    font-weight: 600;
+    width: 180px;
+    height: 54px;
+    
+    
+    color: var(--main-color);
+    background-color: var(--main-bg);
+    
+    
+}
+.sidebar .logout_btn > i {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+.sidebar .logout_btn:hover {
+    color: red;
+
+}
+.sidebar .sidebar__footer{
+    align-items: center;
+    margin-top: 100%;
+}

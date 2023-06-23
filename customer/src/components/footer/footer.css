@@ -1,0 +1,32 @@
+.footer{
+    background-color: #2C3E50;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-left{
+    justify-content: center;
+    align-items: center;
+
+}
+.footer-left .name-logo{
+    text-align: center;
+    color: #F4F6F6;
+}
+.footer-left p{
+    margin-left: 30px;
+    color: #F4F6F6;
+}
+.footer h6{
+    color: #F4F6F6;
+}
+.footer .row .col-1 .row {
+    text-decoration: none;
+}
+.footer .link-footer{
+    color: #CCD1D1;
+    text-decoration: none;
+}
+.footer .link-footer:hover{
+    color: #FFFFFF;
+}

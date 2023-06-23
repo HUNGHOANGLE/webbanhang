@@ -1,0 +1,55 @@
+.product__content{
+    display: flex;
+    justify-content: center;
+}
+.product_card__Link{
+    text-decoration: none;
+    color: black;
+}
+
+.product_card ~.product_card {
+    margin-left:20px
+}
+.card__sold{
+    background-color: #EAEDED;
+    color: #1E8449;
+    padding: 5px;
+    border: none;
+}
+.product__list{
+   /* Hai dòng này để cho mấy cái card xếp thành hàng ngang và tự xuống dòng */
+   display: flex;
+   flex-wrap: wrap;
+}
+.product_card__{
+    margin: 9px;
+}
+.table__pagination{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+}
+.table__pagination-item ~ .table__pagination-item{
+    margin-left: 10px;
+}
+.table__pagination-item {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.table__pagination-item.active, .table__pagination-item.active:hover{
+    background-color: #3498DB;
+    color: #EAEDED;
+    font-weight: 600;
+}
+.table__pagination-item:hover{
+    color: #EAEDED;
+    background-color: #3498DB;
+}
+

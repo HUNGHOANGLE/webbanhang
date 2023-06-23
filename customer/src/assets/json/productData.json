@@ -1,0 +1,308 @@
+[
+    {
+        "id":"001",
+        "name":"SneakerA",
+        "img":"https://images.stockx.com/images/New-Balance-550-Conversations-Amongst-Us-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&dpr=1&trim=color&updated_at=1651513334&q=80",
+        "category":"sneaker",
+        "describe":"Synth (Reflective)",
+        "price":"100",
+        "sold":"123"
+    },
+    {
+        "id":"002",
+        "name":"SneakerB",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Restock-Pair-1.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1639593302&q=80",
+        "category":"sneaker",
+        "describe":"Safflower",
+        "price":"50",
+        "sold":"1230"
+    },
+    {
+        "id":"003",
+        "name":"SneakerC",
+        "img":"https://images.stockx.com/images/Adidas-Yeezy-Boost-350-V2-Zebra-Product-1.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1606321670&q=80",
+        "category":"sneaker",
+        "describe":"Alvah",
+        "price":"10",
+        "sold":"13"
+    },
+    {
+        "id":"004",
+        "name":"SneakerD",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-500-Granite.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1652111116&q=80",
+        "category":"sneaker",
+        "describe":"Resin (Infant)",
+        "price":"20",
+        "sold":"1243"
+    },
+    {
+        "id":"005",
+        "name":"SneakerE",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Pure-Oat-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1648503664&q=80",
+        "category":"sneaker",
+        "describe":"Geode (Infant)",
+        "price":"90",
+        "sold":"132"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-700-V3-Fade-Carbon.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1652801676&q=80",
+        "category":"sneaker",
+        "describe":"Orange (Infant)",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/Adidas-Yeezy-Boost-350-V2-Core-Black-Red-2017-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1606320792&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Ochre-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1633023377&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-450-Sulfur-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1651599570&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-700-V2-Static-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1625589442&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Mono-Ice-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1624459930&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Zyon-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1606325931&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-700-V3-Mono-Safflower-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1648065369&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Carbon-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1609432836&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-MX-Sand-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1639674166&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Eliada-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1609768689&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-700-V3-Copper-Fade-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1645715922&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Slide-Orange-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1624455953&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Mono-Cinder-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1635434704&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Slide-Glow-Green-Infants-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1653034907&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    },
+    {
+        "id":"006",
+        "name":"SneakerF",
+        "img":"https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1638284955&q=80",
+        "category":"sneaker",
+        "describe":"Giày cho người đã giàu",
+        "price":"1000",
+        "sold":"32"
+    }
+]

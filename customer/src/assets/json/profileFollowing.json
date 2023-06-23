@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Military Black",
+        "Size":"U.S.Men's Size: 8.5",
+        "MarketValue":"$332",
+        "LowestAsk":"$281",
+        "LastSale":"$309",
+        "Image_url":"https://images.stockx.com/images/Air-Jordan-1-Retro-High-Stage-Haze-GS.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&dpr=1&trim=color&updated_at=1652346288&q=80"
+    },
+    {
+        "Name":"Nike Air Max 1",
+        "Size":"U.S.Men's Size: 8.0",
+        "MarketValue":"$384",
+        "LowestAsk":"$341",
+        "LastSale":"$359",
+        "Image_url":"https://images.stockx.com/images/Nike-Air-Max-1-Kasina-Won-Ang-Orange.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1653367993&q=80"
+    },
+    {
+        "Name":"Nike Whisper",
+        "Size":"U.S.Men's Size: 9.0",
+        "MarketValue":"$499",
+        "LowestAsk":"$399",
+        "LastSale":"$449",
+        "Image_url":"https://images.stockx.com/images/Nike-Dunk-Low-Rose-Whisper-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=webp&auto=compress&trim=color&dpr=1&updated_at=1650654997&q=80"
+    }
+]

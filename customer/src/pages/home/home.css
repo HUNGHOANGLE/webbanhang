@@ -1,0 +1,45 @@
+.homeheader{
+    user-select: none;
+    background-color: #F4F6F6;
+    display: flex;
+    justify-content: center;
+}
+.homeheader h5 {
+    margin: 15px;
+}
+.homeheader .homeheader__Link{
+    text-decoration: none;
+    color: black;
+}
+.homebanner{
+    max-width: 1264px;
+    justify-content: end;
+    margin: auto;
+    margin-top: 30px;
+}
+.popularbrand{
+    max-width: 1264px;
+    justify-content: end;
+    margin: auto;
+    margin-top: 30px;
+}
+.headerList{
+    display: flex;
+}
+.headerList__right{
+    margin-left: auto;
+    margin-right: 0;
+}
+.headerList__right-link{
+    color: #196F3D;
+    padding: 5px;
+    border: none;
+    background-color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-decoration: none;
+}
+.headerList__right-link:hover{
+    background-color: #B2BABB;
+}

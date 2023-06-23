@@ -1,0 +1,11 @@
+.account__layout{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.account__layout__content{
+    background-color: var(--second-bg);
+    min-height: 100vh;
+    width: 75%;
+    margin: auto    ;
+}

@@ -1,0 +1,44 @@
+.customer-search-input{
+    margin-left: auto;
+    margin-right: 0;
+}
+.card__body-header-cus{
+    display: flex;
+}
+.card__body-header-right{
+    margin-left: auto;
+    margin-right: 0;
+}
+.card__body-header-right .btn__add{
+    border : solid 2px green ;
+    color: green;
+    margin: 10px;
+    padding: 5px;
+}
+.card__body-header-right .btn__add:hover{
+    background-color: green;
+    color: #fff;
+}
+.card__body-header-right .btn__del{
+    border : solid 2px red ;
+    color: red;
+    margin: 10px;
+    padding: 5px;
+}
+.card__body-header-right .btn__del:hover{
+    background-color: red;
+    color: #fff;
+}
+.card__body-header-right .btn__fix{
+    border : solid 2px orange ;
+    color: orange;
+    margin: 10px;
+    margin-right: 0;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.card__body-header-right .btn__fix:hover{
+    background-color: orange;
+    color: #fff;
+}

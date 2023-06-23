@@ -1,0 +1,17 @@
+.banner2{
+    display: flex;
+}
+.banner2 .banner2_1{
+    max-width: 820px;
+}
+.banner2 .banner2_2{
+    max-width: 410px;
+    margin-left: 34px;
+}
+.banner2 .banner3_1{
+    max-width: 410px;
+}
+.banner2 .banner3_2{
+    max-width: 820px;
+    margin-left: 34px;
+}

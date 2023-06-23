@@ -1,0 +1,90 @@
+.product__detail{
+    max-width: 1264px;
+    margin: auto;
+    margin-top: 80px;
+}
+.product__detail .header {
+    display: flex;
+}
+.product__detail .header .header__right{
+    margin-left: auto;
+    margin-right: 0;
+}
+.product__detail .header .header__right  >  i {
+    font-size: 24px;
+    margin: 10px;
+}
+.product__detail .body {
+    display: flex;
+}
+.product__detail .body .body__left .image {
+    
+    height: 300px;
+}
+.product__detail .body .body__right{
+    margin-left: auto;
+    margin-right: 0;
+}
+.product__detail .body .body__right .conponent__btn{
+    display: flex;
+    margin-top: 40px;
+}
+
+.product__detail .body .body__right .conponent__btn .buy__btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    border: none;
+    background-color: #117A65;
+    color: #ffffff;
+}
+.product__detail .body .body__right .conponent__btn .sell__btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    border: none;
+    background-color: #273746;
+    color: #ffffff;
+}
+
+.product__detail .body .body__right .conponent__btn .conponent__right{
+    margin-left: auto;
+    margin-right: 0;
+}
+.product__detail .body .body__right .conponent__btn .conponent__right >p{
+    font-size: 18px;
+}
+.product__detail .body .body__right .conponent__btn .conponent__text{
+    margin-left: 30px;
+}
+.product__detail .body .body__right .conponent__btn .conponent__text >p{
+    font-size: 18px;
+}
+.product__detail .body .body__right .conponent__btn .conponent__right >button{
+    margin: 10px;
+    padding: 5px;
+    background-color: #ffffff;
+    font-weight: 600;
+}
+
+.product__detail .body .body__right .conponent__btn .conponent__right >button:hover{
+    background-color: black;
+    color: #ffffff;
+}
+.product__detail .afterbody{
+    margin-top: 20px;
+}
+.product__detail .afterbody_1{
+    margin-top: 20px;
+    display: flex;
+}
+.product__detail .afterbody_1 >h5{
+    margin-bottom: 20px;
+}
+.product__detail .afterbody_1 .afterbody__left{
+    flex: 1;
+}
+.product__detail .afterbody_1 .afterbody__right{
+    margin-top: -20px;
+    flex: 1;
+}
